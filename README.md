@@ -2,7 +2,7 @@
 
 ## Overview
 💞 Modern real-time dating web application. This is the second project of 42 school's web branch. No ORM, validators or User Accounts Manager were allowed for this project.
-Build with @alamy (https://github.com/audreylamy).
+Build with @mpham (https://github.com/Minh42).
 
 ## Demo
 Here is a working live demo : 
