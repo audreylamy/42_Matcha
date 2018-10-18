@@ -17,17 +17,6 @@ Here is a working live demo : soon...
 + Framework CSS: Bulma
 + Back-end: NodeJs, Mysql, Socket.io, Oauth
 
-## Key concepts
-* Single page application
-* Front-end framework
-* Micro-framework 
-* Advanced user registration and sign-in (Oauth)
-* Real-time application
-* Geolocation 
-* Security (OWASP 10, XSS, SQL injection, cookie session fixation...) 
-* Data validation
-* UX / UI Design
-
 ## Key features
 
 + Registration and sign-in
